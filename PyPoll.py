@@ -1,5 +1,4 @@
-# The data we need to retrieve
-#Add our dependencies
+#Adding dependencies
 import csv
 import os
 
