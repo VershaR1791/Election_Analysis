@@ -43,11 +43,11 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 
   ![Candidate vote summary](https://user-images.githubusercontent.com/84694664/126077408-f38afc2e-e1a6-419d-a043-50866a006bd4.JPG)
 
-  The syntax for the candidate summary is similar to the county summary:
+  The syntax for the candidate summary is similar to the county summary syntax:
   
   ![Candidate_summary_code](https://user-images.githubusercontent.com/84694664/126077447-2a85c4af-1a77-4762-9581-5b8f0229d30e.JPG)
 
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+- **Diana DeGette** won the election with an outstanding vote count of **272,892**. She beat the other 2 candidates by a large margin of **73.8%**.
 
 
 ## Election-Audit Summary
