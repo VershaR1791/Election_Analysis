@@ -29,11 +29,7 @@ Using a bulleted list, address the following election outcomes. Use images or ex
   
   ![County Votes_code](https://user-images.githubusercontent.com/84694664/126077155-47be7dac-b5f0-434b-84d5-abf97a27cfc6.JPG)
 
-- The county with the largest voter turnout or number of votes was **Denver**.
-  
-  ![Votes_largest_county](https://user-images.githubusercontent.com/84694664/126077219-89f8b81c-a168-4c03-be6e-42560f979ab3.JPG)
-
-  Denver's vote count and winning percentage was **306,055** and **82.8%** respectively.
+- The county with the largest voter turnout or number of votes was **Denver**. Denver's vote count and winning percentage was **306,055** and **82.8%** respectively.
   
   The syntax to create this summary is as follows:
   
@@ -48,6 +44,7 @@ Using a bulleted list, address the following election outcomes. Use images or ex
   ![Candidate_summary_code](https://user-images.githubusercontent.com/84694664/126077447-2a85c4af-1a77-4762-9581-5b8f0229d30e.JPG)
 
 - **Diana DeGette** won the election with an outstanding vote count of **272,892**. She beat the other 2 candidates by a large margin of **73.8%**.
+- 
 
 
 ## Election-Audit Summary
