@@ -9,11 +9,10 @@ The Colorado Board of Election Employee Tom has seeked assistance to help audit 
 - the % of votes cast per candidate and,
 - finally, the winner of election based on popular vote. 
 
-The input to the data is a combination of voting methods such as mail-in ballots, punch card, and direct recording electronic machines. The overall objective is to automate with help *Python* and help certify US Congresional race for Colorado Precint.
+The input data is a combination of voting methods such as mail-in ballots, punch card, and direct recording electronic machines. The overall objective is to automate with help *Python* and help certify US Congresional race for Colorado Precint.
 
 ## Election-Audit Results 
-The election-audit results for the Colorado Precint are as follows:
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+The 'election results' excel file contains data of 3 counties *'Arapahoe', 'Denver'* and *'Jefferson'* and candidates *'Charles Casper Stockham', 'Diana DeGette'* and *'Raymon Anthony Doane'*. The election-audit results for the Colorado Precint are as follows:
 
 - The total number of votes cast in this congressional election were **369,711**. This is achieved through a simple *for loop syntax* in python as seen in the snapshot below.
   
