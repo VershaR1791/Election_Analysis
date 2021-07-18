@@ -44,8 +44,6 @@ Using a bulleted list, address the following election outcomes. Use images or ex
   ![Candidate_summary_code](https://user-images.githubusercontent.com/84694664/126077447-2a85c4af-1a77-4762-9581-5b8f0229d30e.JPG)
 
 - **Diana DeGette** won the election with an outstanding vote count of **272,892**. She beat the other 2 candidates by a large margin of **73.8%**.
-- 
-
 
 ## Election-Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
