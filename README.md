@@ -25,12 +25,21 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 
   ![County_Votes_result](https://user-images.githubusercontent.com/84694664/126076941-5807e529-1507-4ee1-a58a-d6674fd4336e.JPG)
   
-  This result is obtained by creating a list to store county names and a dictionary to store county votes. The county names are extracted from each row and unique values are stored in the list and county votes are added against the name through a *if conditional statement*
+  This result is obtained by creating a list to store *'county names'* and a dictionary to store *'county votes'*. The county names are extracted from each row and unique values are stored in the list and county votes are added against the name through a *if conditional statement*.
   
   ![County Votes_code](https://user-images.githubusercontent.com/84694664/126077155-47be7dac-b5f0-434b-84d5-abf97a27cfc6.JPG)
 
+- The county with the largest voter turnout or number of votes was **Denver**.
+  
+  ![Votes_largest_county](https://user-images.githubusercontent.com/84694664/126077219-89f8b81c-a168-4c03-be6e-42560f979ab3.JPG)
 
-- Which county had the largest number of votes?
+  Denver's vote count and winning percentage was **306,055** and **82.8%** respectively.
+  
+  The syntax to create this summary is as follows:
+  
+  ![Winner County_vote](https://user-images.githubusercontent.com/84694664/126077282-221afd12-f670-4462-bdcb-1c4d79b472d2.JPG)
+
+
 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
