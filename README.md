@@ -15,9 +15,7 @@ The input to the data is a combination of voting methods such as mail-in ballots
 The election-audit results for the Colorado Precint are as follows:
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
-- The total number of votes cast in this congressional election were **369,711**.
-  
-  This is achieved through a simple *for loop syntax* in python as seen in the snapshot below.
+- The total number of votes cast in this congressional election were **369,711**. This is achieved through a simple *for loop syntax* in python as seen in the snapshot below.
   
   ![Total_Votes_code](https://user-images.githubusercontent.com/84694664/126076827-c9cdbc3d-e46d-4609-b91e-1500b96fc269.JPG)
 
@@ -46,4 +44,6 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 - **Diana DeGette** won the election with an outstanding vote count of **272,892**. She beat the other 2 candidates by a large margin of **73.8%**.
 
 ## Election-Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+The benefit of performing this election analysis through python is that it can be modified slightly to be used for similar analysis for any other precint or for gathering additional insights.
+- If we would like to create an analysis for a the entire state, we can create additional *list* for state and a *dictionary* to store the state votes. New variables to store the winner data such as name, vote count and percentage can be created. Using the *if conditional statement* we can store the unique counties within the state and calculate the vote for the counties and candidates. Again using *if statement* and *comparison operator* we can determine the winning state.
+- If we have the population data of county or state, additional analysis can be carried out to see the voter turnout for each county and state. Firstly, the population data can be stored into a variable and using a simple division operator the % voter turnout can be found out. The candidates as well as the election commission board can strategize the campaigning plan for the next election usinh this data especially in the low turnout county or state.
