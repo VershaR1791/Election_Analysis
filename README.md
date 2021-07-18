@@ -42,8 +42,8 @@ Using a bulleted list, address the following election outcomes. Use images or ex
   ![Candidate_summary_code](https://user-images.githubusercontent.com/84694664/126077447-2a85c4af-1a77-4762-9581-5b8f0229d30e.JPG)
 
 - **Diana DeGette** won the election with an outstanding vote count of **272,892**. She beat the other 2 candidates by a large margin of **73.8%**.
-
-![winning_candidate_summary](https://user-images.githubusercontent.com/84694664/126078508-b648b2d5-7a83-4d8d-9638-05a0294a1a09.JPG)
+  
+  ![winning_candidate_summary](https://user-images.githubusercontent.com/84694664/126078561-1fc8db25-06bd-4e63-9ffb-fce5fb37a91d.JPG)
 
 ## Election-Audit Summary
 The benefit of performing this election analysis through python is that it can be modified slightly to be used for similar analysis for any other precint or for gathering additional insights.
