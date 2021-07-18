@@ -43,6 +43,8 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 
 - **Diana DeGette** won the election with an outstanding vote count of **272,892**. She beat the other 2 candidates by a large margin of **73.8%**.
 
+![winning_candidate_summary](https://user-images.githubusercontent.com/84694664/126078508-b648b2d5-7a83-4d8d-9638-05a0294a1a09.JPG)
+
 ## Election-Audit Summary
 The benefit of performing this election analysis through python is that it can be modified slightly to be used for similar analysis for any other precint or for gathering additional insights.
 - If we would like to create an analysis for a the entire state, we can create additional *list* for state and a *dictionary* to store the state votes. New variables to store the winner data such as name, vote count and percentage can be created. Using the *if conditional statement* we can store the unique counties within the state and calculate the vote for the counties and candidates. Again using *if statement* and *comparison operator* we can determine the winning state.
