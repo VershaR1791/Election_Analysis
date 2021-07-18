@@ -12,6 +12,7 @@ The Colorado Board of Election Employee Tom has seeked assistance to help audit 
 The input to the data is a combination of voting methods such as mail-in ballots, punch card, and direct recording electronic machines. The overall objective is to automate with help *Python* and help certify US Congresional race for Colorado Precint.
 
 ## Election-Audit Results 
+The election-audit results for the Colorado Precint are as follows:
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 - The total number of votes cast in this congressional election were **369,711**.
@@ -24,6 +25,10 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 
   ![County_Votes_result](https://user-images.githubusercontent.com/84694664/126076941-5807e529-1507-4ee1-a58a-d6674fd4336e.JPG)
   
+  This result is obtained by creating a list to store county names and a dictionary to store county votes. The county names are extracted from each row and unique values are stored in the list and county votes are added against the name through a *if conditional statement*
+  
+  ![County Votes_code](https://user-images.githubusercontent.com/84694664/126077155-47be7dac-b5f0-434b-84d5-abf97a27cfc6.JPG)
+
 
 - Which county had the largest number of votes?
 
