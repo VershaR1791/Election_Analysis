@@ -15,10 +15,15 @@ The input to the data is a combination of voting methods such as mail-in ballots
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 - The total number of votes cast in this congressional election were **369,711**.
+  
   This is achieved through a simple *for loop syntax* in python as seen in the snapshot below.
+  
   ![Total_Votes_code](https://user-images.githubusercontent.com/84694664/126076827-c9cdbc3d-e46d-4609-b91e-1500b96fc269.JPG)
 
-- The number of votes and the percentage of total votes for each county in the precinct are as seen in the below snapshot
+- The number of votes and the percentage of total votes for each county in the precinct are as seen in the below snapshot.
+
+  ![County_Votes_result](https://user-images.githubusercontent.com/84694664/126076941-5807e529-1507-4ee1-a58a-d6674fd4336e.JPG)
+  
 
 - Which county had the largest number of votes?
 
