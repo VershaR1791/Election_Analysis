@@ -39,9 +39,13 @@ Using a bulleted list, address the following election outcomes. Use images or ex
   
   ![Winner County_vote](https://user-images.githubusercontent.com/84694664/126077282-221afd12-f670-4462-bdcb-1c4d79b472d2.JPG)
 
+- The number of votes and the percentage of the total votes for each candidate are as follows:
 
+  ![Candidate vote summary](https://user-images.githubusercontent.com/84694664/126077408-f38afc2e-e1a6-419d-a043-50866a006bd4.JPG)
 
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  The syntax for the candidate summary is similar to the county summary:
+  
+  ![Candidate_summary_code](https://user-images.githubusercontent.com/84694664/126077447-2a85c4af-1a77-4762-9581-5b8f0229d30e.JPG)
 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
