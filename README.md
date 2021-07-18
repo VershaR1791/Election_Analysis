@@ -14,7 +14,7 @@ The input data is a combination of voting methods such as mail-in ballots, punch
 ## Election-Audit Results 
 The 'election results' excel file contains data of 3 counties *'Arapahoe', 'Denver'* and *'Jefferson'* and candidates *'Charles Casper Stockham', 'Diana DeGette'* and *'Raymon Anthony Doane'*. The election-audit results for the Colorado Precint are as follows:
 
-- The total number of votes cast in this congressional election were **369,711**. This is achieved through a simple *for loop syntax* in python as seen in the snapshot below.
+- The total number of votes cast in this congressional election were **369,711**. This is achieved through a simple *'for loop syntax'* in python as seen in the snapshot below.
   
   ![Total_Votes_code](https://user-images.githubusercontent.com/84694664/126076827-c9cdbc3d-e46d-4609-b91e-1500b96fc269.JPG)
 
